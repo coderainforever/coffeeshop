@@ -20,7 +20,7 @@ instance/
 ENV/
 env.bak/
 venv.bak/
-.old_files/
+.old_files
 
 # Editor directories and files
 .vscode/
