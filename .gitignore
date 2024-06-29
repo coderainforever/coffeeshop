@@ -6,6 +6,7 @@ __pycache__/
 # Virtual environment
 venv/
 env/
+.venv/
 
 # Flask specific files
 instance/
@@ -20,7 +21,6 @@ instance/
 ENV/
 env.bak/
 venv.bak/
-.old_files
 
 # Editor directories and files
 .vscode/
